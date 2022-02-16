@@ -1,6 +1,6 @@
 # Lesson 2: Arrays
 
-An array is a type of variable used in pretty much all programming languages. It is essentially just
+An array is a type of variable used in pretty much all programming languages. It is essentially
 a list of items like a grocery list. Let's say you need to go to the store and have the following list:
 
 - Bread
